@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>rplevy</groupId>
+  <groupId>drouchy</groupId>
   <artifactId>lein-deploy-app</artifactId>
   <packaging>jar</packaging>
   <version>0.2.1</version>
@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/drouchy/lein-deploy-app.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/drouchy/lein-deploy-app.git</developerConnection>
-    <tag>32519e7abcf16c34ae63178ede315dc2d9160297
+    <tag>47ff5c47314299a647985a8f22b324be5f524d26
 </tag>
     <url>https://github.com/drouchy/lein-deploy-app</url>
   </scm>
