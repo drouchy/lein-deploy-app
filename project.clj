@@ -10,7 +10,7 @@
                                org.codehaus.jackson/jackson-mapper-asl]]
                  [org.codehaus.jackson/jackson-core-asl "1.7.3"]
                  [org.codehaus.jackson/jackson-mapper-asl "1.7.3"]
-
+                 [lein-ring "0.9.0"]
                  [me.raynes/fs "1.4.5"]
                  [dsabanin/clj-jgit "0.2"]]
   :license {:name "Eclipse Public License"
